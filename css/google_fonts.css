@@ -1,0 +1,11 @@
+/* CSS code for the Google Fonts module */
+h1.single-page-title {
+    text-transform: uppercase;
+    font-family: "Noto Sans"
+}
+#main-menu a {
+font-family: "Droid Serif";
+}
+body {
+font-family: "Droid Serif";
+}
